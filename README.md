@@ -1,3 +1,2 @@
-# Starbucks
-Clone coding - https://fastcampus.co.kr/ 
-front end Basic 
+# Clone coding - https://fastcampus.co.kr/ 
+front end Basic : HTML, CSS, JS
